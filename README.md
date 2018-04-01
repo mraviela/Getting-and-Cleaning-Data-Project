@@ -35,7 +35,7 @@ According to the requirements for this project you will find next items:
 4. The tidy data set file "tidy_data.txt" produced by R script execution.
 
 ### How to run this project
-1. Clone repo
+1. Clone repo "git clone https://github.com/mraviela/Getting-and-Cleaning-Data-Project.git"
 2. Run R script "run_analysis.R"
 3. Two files will be generated "tidy_data.txt" as project requires, and "tidy_data.csv" because is easier to import to Excel or Numbers.  
 
