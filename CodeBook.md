@@ -7,22 +7,22 @@ Information about original data set can be found in next url http://archive.ics.
 
 
 ## Transformation process
-* 1.-Load training and the test data files.
-* 2.-Merge the training and the test data sets to creating one data set.
-* 3.-Extracts only the measurements on the mean and standard deviation for each measurement.
-* 4.-Using descriptive activity names to rename the activities in the merged data set.
-* 5.-Appropriately labels the merged data set with descriptive variable names.
-* 6.-Using merged data set, is created the final, independent tidy data set with the average of each variable for each activity and each subject.
+* 1. Load training and the test data files.
+* 2. Merge the training and the test data sets to creating one data set.
+* 3. Extracts only the measurements on the mean and standard deviation for each measurement.
+* 4. Using descriptive activity names to rename the activities in the merged data set.
+* 5. Appropriately labels the merged data set with descriptive variable names.
+* 6. Using merged data set, is created the final, independent tidy data set with the average of each variable for each activity and each subject.
 
 ### Data fields
 * "Subject".- Numeric value that identifies subject observations.                           
 * "Activity".- String value, with next possible values:
-  ..* WALKING
-  ..* WALKING_UPSTAIRS
-  ..* WALKING_DOWNSTAIRS
-  ..* SITTING
-  ..* STANDING
-  ..* LAYING
+..* WALKING
+..* WALKING_UPSTAIRS
+..* WALKING_DOWNSTAIRS
+..* SITTING
+..* STANDING
+..* LAYING
 
 * Next fields are all numeric.
 The time domain signals were captured at a constant rate of 50 Hz, prefix 't' denotes time.
