@@ -29,13 +29,13 @@ https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Datas
 
 ### Repository contents
 According to the requirements for this project you will find next items:
-1.-R Script "run_analysis.R".
-2.-README.md file, that actually is the file you are reading.
-3.-CodeBook, is the file "CodeBook.md"
-4.-The tidy data set file "tidy_data.txt" produced by R script execution.
+1. R Script "run_analysis.R".
+2. README.md file, that actually is the file you are reading.
+3. CodeBook, is the file "CodeBook.md"
+4. The tidy data set file "tidy_data.txt" produced by R script execution.
 
 ### How to run this project
-1.-Clone repo
-2.-Run R script "run_analysis.R"
-3.-Two files will be generated "tidy_data.txt" as project requires, and "tidy_data.csv" because is easier to import to Excel or Numbers.  
+1. Clone repo
+2. Run R script "run_analysis.R"
+3. Two files will be generated "tidy_data.txt" as project requires, and "tidy_data.csv" because is easier to import to Excel or Numbers.  
 
